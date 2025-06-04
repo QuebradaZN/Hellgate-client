@@ -1,2 +1,1 @@
-alumadev.com.br
-hellgate-global.com.br
+cache/compendium.json
